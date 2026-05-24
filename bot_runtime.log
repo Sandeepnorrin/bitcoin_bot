@@ -1,21 +1,4 @@
 Starting Bitcoin Trading Bot...
-Created new log file: bitcoin_trades.xlsx
 Fetching initial historical data...
 Bot is running. Press Ctrl+C to stop.
-Status: Balance=$100.00 | Active Trades: 0
-Error fetching data for 5m: kraken GET https://api.kraken.com/0/public/OHLC?pair=XBTUSDT&interval=5
-OPENED: SR_Zones_PriceAction long @ 76772.8
-Error fetching data for 1w: kraken GET https://api.kraken.com/0/public/OHLC?pair=XBTUSDT&interval=10080
-Status: Balance=$100.00 | Active Trades: 1
-OPENED: 10EMA_Trend_5m long @ 76838.2
-Status: Balance=$100.00 | Active Trades: 2
-Status: Balance=$100.00 | Active Trades: 2
-Error fetching data for 5m: kraken GET https://api.kraken.com/0/public/OHLC?pair=XBTUSDT&interval=5
-Logged trade to bitcoin_trades.xlsx
-CLOSED: 10EMA_Trend_5m | PnL: -0.07 | New Balance: 99.93
-OPENED: 5EMA_Reversal short @ 76816.8
-Status: Balance=$99.93 | Active Trades: 2
-Error fetching data for 5m: kraken GET https://api.kraken.com/0/public/OHLC?pair=XBTUSDT&interval=5
-Logged trade to bitcoin_trades.xlsx
-CLOSED: 5EMA_Reversal | PnL: -0.13 | New Balance: 99.80
-OPENED: 5EMA_Reversal short @ 76902.4
+Bot is running. Press Ctrl+C to stop.
