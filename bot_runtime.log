@@ -7,3 +7,4 @@ Error fetching data for 5m: kraken GET https://api.kraken.com/0/public/OHLC?pair
 OPENED: SR_Zones_PriceAction long @ 76772.8
 Error fetching data for 1w: kraken GET https://api.kraken.com/0/public/OHLC?pair=XBTUSDT&interval=10080
 Status: Balance=$100.00 | Active Trades: 1
+OPENED: 10EMA_Trend_5m long @ 76838.2
