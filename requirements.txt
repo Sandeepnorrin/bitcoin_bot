@@ -1,0 +1,6 @@
+pandas
+pandas_ta
+ccxt
+openpyxl
+pytz
+schedule
